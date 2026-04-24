@@ -1,0 +1,10 @@
+Lista de tareas (CRUD básico)
+
+Permitir:
+
+Agregar tarea. listo
+Mostrar tareas. listo
+Eliminar tarea. listo 
+Mantenerlas en sesión.  listo
+
+
