@@ -6,7 +6,7 @@ session_start();
 <html>
     <head>
         <meta charset="Utf-8">
-        <tittle>Registrar tatreas</tittle>
+        <tittle>Registrar tareas</tittle>
     </head>
     <body>
         <form action="operaciones.php" method="Post">
